@@ -1,25 +1,15 @@
 # Final Project and Deployment
 
-## Objectives
-Build a fully functional web application.
-Apply HTML, CSS, and JavaScript concepts learned.
-Deploy the project using GitHub Pages, Netlify, or Vercel.
+## Gadget Store
 
-## Instructions
-Choose one of the following project ideas:
-Blog Website: Implement a multi-page site with navigation.
-Ecommerce Website: Implement a multi-page site with navigation.
+### Steps
+1. Browse through the featured products.
+2. Add items to the cart.
+3. To check out, click on cart on the navigation menu
+4. Click Proceed Checkout.
+5. Fill in the form.
+6. Payment.
 
->[!NOTE]
-> - Include at least:
-> - A responsive design.
-> - JavaScript interactivity.
-> - A deployment link.
 
-## Tasks
-
-Create a well-structured HTML5 document.
-Use at least 5 different HTML elements.
-Ensure semantic correctness.
-
-Good luck and happy coding! 🚀💻
+### Link for the store
+https://plp-webtechnologies.github.io/feb-2025-final-project-and-deployment-Caprice-Instinct/
